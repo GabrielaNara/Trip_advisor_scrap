@@ -1,0 +1,16 @@
+#DADOS DE ENTRADA
+# --------------------
+#LISTA_PARQUES
+# --------------------
+#Arquivo em formato xlsx que indica a listagem de atrações a serem analisadas, onde cada atração deve estar em uma linhas.
+#Esse arquivo deve conter colunas:
+ #   name = Nome da atração separado por linha sublinhada. 
+     Exemplo: Jardim_da_Luz
+ #   avaliacoes = Número de avaliações que se deseja coletar. Esse valor deve ser menor ou igual a quantidade total de avaliações. 
+     Exemplo: 343
+ #   link = html que dá acesso à atração. 
+     Exemplo: Attraction_Review-g303631-d2350316-Reviews-Luz_Square-Sao_Paulo_State_of_Sao_Paulo.html
+
+#DADOS DE SAIDA
+#Arquivo em formato .CSV chamado "tripadvisor_atracao", onde atracao é o nome da atração analisada.
+     Exemplo: tripadvisor_Jardim_da_Luz
