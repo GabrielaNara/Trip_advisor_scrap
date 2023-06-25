@@ -1,3 +1,6 @@
+#	pip install selenium 
+#	pip install BeautifulSoup
+
 import time
 from selenium import webdriver
 from bs4 import BeautifulSoup
