@@ -13,7 +13,6 @@ xlsx = pd.ExcelFile("lista_parques.xlsx")
 lista_parques = pd.read_excel(xlsx)
 
 #for i in lista_parques:
-for i in [7]:
     local = lista_parques.iloc[i,0]
     avaliacoes = lista_parques.iloc[i,1]
     a = lista_parques.iloc[i,2]
