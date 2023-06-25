@@ -11,4 +11,4 @@ O método contém trechos com alta probabilidade de falhas a cada atualização 
 	# URL da postagem
 	"a" > "href", attrs={"target":"_blank"}
 
-	#O texto da postagem foi separado por frases que	sempre aparecem. Por exemplo o número de contribuições do usuário e o "Leia mais" no final das postagens. 
+	#O texto da postagem foi separado por frases que sempre aparecem. Por exemplo o número de contribuições do usuário e o "Leia mais" no final das postagens. 
